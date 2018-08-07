@@ -1,2 +1,3 @@
 #!/bin/bash
-touch file{1..5}
+mkdir /etc/config
+touch file1
